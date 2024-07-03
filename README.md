@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/man-is-coding-the-web-page-11079497">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/IsmailWebDevloper/IsmailWebDevloper/assets/156503649/022967d6-7c9e-4920-bfab-49b5adedf864)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailwebdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="ismailwebdevloper" /> </p>
 
